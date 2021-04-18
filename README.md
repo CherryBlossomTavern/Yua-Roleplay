@@ -4,7 +4,7 @@ Yua-Roleplay is the official roleplay command repository for Yua, we want to be 
 
 ## Contributing
 If you would like to add a new command or tweak/fix errors in other command, please follow the following steps
-### Adding New Lang
+### Adding New Command
 - Fork This Repository
 - Fork The [Yua-Translations](https://github.com/CherryBlossomTavern/Yua-Translations) repository
 - Add command to the `/commands` directory using the template
@@ -12,7 +12,7 @@ If you would like to add a new command or tweak/fix errors in other command, ple
 - Update the lang template and default lang file
 - Create a pull requests on both repositories to merge with master
 
-### Tweaking Current Lang
+### Tweaking Current Command
 - Fork This Repository
 - Fork The [Yua-Translations](https://github.com/CherryBlossomTavern/Yua-Translations) repository
 - Make necessary tweaks to repositories
