@@ -1,0 +1,12 @@
+{
+  "name": "",
+  "description": "yua.commands",
+  "responses.self": "yua.commands",
+  "counter": "yua.commands",
+  "aliases": [
+
+  ],
+  "links": [
+    ""
+  ] 
+}

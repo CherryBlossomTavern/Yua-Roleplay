@@ -1,0 +1,13 @@
+{
+  "name": "",
+  "description": "yua.commands",
+  "responses.self": "yua.commands",
+  "responses.towards": "yua.commands",
+  "counter": "yua.commands",
+  "aliases": [
+
+  ],
+  "links": [
+    ""
+  ] 
+}
