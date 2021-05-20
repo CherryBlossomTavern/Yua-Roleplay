@@ -1,7 +1,6 @@
 {
   "name": "dance",
   "description": "yua.commands.dance.description",
-  "response": "yua.commands.dance.response",
   "links": [
     "https://media1.tenor.com/images/81c0b8d3c0617d2902319b7f67e6ce01/tenor.gif?itemid=7560551",
     "https://media1.tenor.com/images/96d27057942c34ad7998be45ca930a31/tenor.gif?itemid=13407487",
@@ -28,5 +27,9 @@
     "https://i.nobuwu.dev/nyaa/dance/29.gif",
     "https://i.nobuwu.dev/nyaa/dance/32.gif",
     "https://i.nobuwu.dev/nyaa/dance/34.gif"
-  ]
+  ],
+  "aliases": [],
+  "responses.self": "yua.commands.dance.responses.self",
+  "responses.towards": "yua.commands.dance.responses.towards",
+  "counter": "yua.commands.dance.counter"
 }

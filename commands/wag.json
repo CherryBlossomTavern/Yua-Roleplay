@@ -1,7 +1,6 @@
 {
   "name": "wag",
   "description": "yua.commands.wag.description",
-  "response": "yua.commands.wag.response",
   "links": [
     "https://media1.tenor.com/images/2fe7412470a29b8346a1d0a441468795/tenor.gif?itemid=20482246",
     "https://media1.tenor.com/images/175460a133b720213fdde622ad01e9d0/tenor.gif?itemid=17962572",
@@ -16,5 +15,8 @@
     "https://i.nobuwu.dev/nyaa/wag/9.gif",
     "https://i.nobuwu.dev/nyaa/wag/7.gif",
     "https://i.nobuwu.dev/nyaa/wag/10.gif"
-  ]
+  ],
+  "aliases": [],
+  "responses.self": "yua.commands.wag.responses.self",
+  "counter": "yua.commands.wag.counter"
 }

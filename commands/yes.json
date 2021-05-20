@@ -1,7 +1,6 @@
 {
   "name": "yes",
   "description": "yua.commands.yes.description",
-  "response": "yua.commands.yes.response",
   "links": [
     "https://media1.tenor.com/images/940d040ebde3504b6cd822c6247834dd/tenor.gif?itemid=12150224",
     "https://media1.tenor.com/images/5f58f3bcd3f62390bc94626478b31b82/tenor.gif?itemid=15194868",
@@ -13,5 +12,9 @@
     "https://media1.tenor.com/images/d4754d9b9805020310321ded8fd84907/tenor.gif?itemid=20565151",
     "https://media1.tenor.com/images/6ba4797f1fcdba23d80c283aa160afbb/tenor.gif?itemid=20565176",
     "https://media1.tenor.com/images/5f89669404f87e34095846a1b5cca96e/tenor.gif?itemid=20565188"
-  ]
+  ],
+  "aliases": [],
+  "responses.self": "yua.commands.yes.responses.self",
+  "responses.towards": "yua.commands.yes.responses.towards",
+  "counter": "yua.commands.yes.counter"
 }

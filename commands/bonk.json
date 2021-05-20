@@ -1,7 +1,6 @@
 {
   "name": "bonk",
   "description": "yua.commands.bonk.description",
-  "response": "yua.commands.bonk.response",
   "links": [
     "https://media1.tenor.com/images/dc4329d27745a6707219cb658f5b2c46/tenor.gif?itemid=18191826",
     "https://media1.tenor.com/images/743f16f3d1233ce521e45d1d843b2779/tenor.gif?itemid=20598611",
@@ -14,5 +13,9 @@
     "https://media1.tenor.com/images/e140a5061bca97f0c8b9932f12b96a00/tenor.gif?itemid=20598630",
     "https://media1.tenor.com/images/7ef889cb06c3adca3ecfe9b536d95bde/tenor.gif?itemid=20598645",
     "https://i.nobuwu.dev/nyaa/slap/16.gif"
-  ]
+  ],
+  "aliases": [],
+  "responses.towards": "yua.commands.bonk.responses.towards",
+  "response.want": "yua.commands.bonk.responses.want",
+  "counter": "yua.commands.bonk.counter"
 }

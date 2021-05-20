@@ -1,7 +1,6 @@
 {
   "name": "shy",
   "description": "yua.commands.shy.description",
-  "response": "yua.commands.shy.response",
   "links": [
     "https://media1.tenor.com/images/ce35232c0f4f23378f1c86af4955191e/tenor.gif?itemid=18334899",
     "https://media1.tenor.com/images/6d829802af3d4cea31d7e8a2b45f6474/tenor.gif?itemid=5837944",
@@ -14,5 +13,8 @@
     "https://media1.tenor.com/images/b3dd3acdc07745adddd37f4dc90dd33d/tenor.gif?itemid=20564775",
     "https://media1.tenor.com/images/8fc33d02c01d54d6f89c1c8142692e23/tenor.gif?itemid=20564794",
     "https://media1.tenor.com/images/4f06d37ae28f7c6c9a336069047b93dd/tenor.gif?itemid=13278837"
-  ]
+  ],
+  "aliases": [],
+  "responses.self": "yua.commands.shy.responses.self",
+  "counter": "yua.commands.shy.counter"
 }

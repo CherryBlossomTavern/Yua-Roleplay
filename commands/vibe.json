@@ -1,7 +1,6 @@
 {
   "name": "vibe",
   "description": "yua.commands.vibe.description",
-  "response": "yua.commands.vibe.response",
   "links": [
     "https://media1.tenor.com/images/159e00d0ab8ce04bdda0b748f96b1e28/tenor.gif?itemid=19977171",
     "https://media1.tenor.com/images/c66696f200c650ba93be7951a1e07c6b/tenor.gif?itemid=14493181",
@@ -17,5 +16,9 @@
     "https://i.nobuwu.dev/nyaa/dance/33.gif",
     "https://i.nobuwu.dev/nyaa/smile/12.gif",
     "https://media1.tenor.com/images/22f9fb90f7007e8ffc6320a5647f0a20/tenor.gif?itemid=9802554"
-  ]
+  ],
+  "aliases": [],
+  "responses.self": "yua.commands.vibe.responses.self",
+  "responses.towards": "yua.commands.vibe.responses.towards",
+  "counter": "yua.commands.vibe.counter"
 }

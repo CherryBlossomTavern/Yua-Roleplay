@@ -1,7 +1,6 @@
 {
   "name": "fight",
   "description": "yua.commands.fight.description",
-  "response": "yua.commands.fight.response",
   "links": [
     "https://media1.tenor.com/images/c8e45541220b07e444e77b814feee38c/tenor.gif?itemid=15340791",
     "https://media1.tenor.com/images/79c85e779215421381cb20c93123c3de/tenor.gif?itemid=16836989",
@@ -22,5 +21,9 @@
     "https://i.nobuwu.dev/nyaa/punch/11.gif",
     "https://i.nobuwu.dev/nyaa/punch/13.gif",
     "https://i.nobuwu.dev/nyaa/punch/14.gif"
-  ]
+  ],
+  "aliases": [],
+  "responses.towards": "yua.commands.fight.responses.towards",
+  "response.want": "yua.commands.fight.responses.want",
+  "counter": "yua.commands.fight.counter"
 }

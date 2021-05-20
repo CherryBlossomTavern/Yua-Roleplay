@@ -1,7 +1,6 @@
 {
   "name": "shrug",
   "description": "yua.commands.shrug.description",
-  "response": "yua.commands.shrug.response",
   "links": [
     "https://media1.tenor.com/images/8bf3267e5f0a00eef84f9fbb6ac4ac1b/tenor.gif?itemid=13119038",
     "https://media1.tenor.com/images/f168e0109defe801787890fe2a6104bc/tenor.gif?itemid=13951519",
@@ -13,5 +12,8 @@
     "https://media1.tenor.com/images/ceea89d83cb0a133b02744770cc6d685/tenor.gif?itemid=20564718",
     "https://media1.tenor.com/images/d424137fdf1c7a837b50cdd01c4ff3ed/tenor.gif?itemid=20564728",
     "https://media1.tenor.com/images/499c7461ad922fe373f5d71b3ebdb826/tenor.gif?itemid=20564741"
-  ]
+  ],
+  "aliases": [],
+  "responses.self": "yua.commands.shrug.responses.self",
+  "counter": "yua.commands.shrug.counter"
 }

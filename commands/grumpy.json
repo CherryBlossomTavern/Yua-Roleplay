@@ -1,7 +1,6 @@
 {
   "name": "grumpy",
   "description": "yua.commands.grumpy.description",
-  "response": "yua.commands.grumpy.response",
   "links": [
     "https://media1.tenor.com/images/7c6fdbb98e0dcf565431f87ed7014994/tenor.gif?itemid=5634640",
     "https://media1.tenor.com/images/e15433a7af99094cc98df27802b8948c/tenor.gif?itemid=5688400",
@@ -13,5 +12,8 @@
     "https://media1.tenor.com/images/409c88be9b5ebd28ef99ca5b53c02627/tenor.gif?itemid=20554869",
     "https://media1.tenor.com/images/a6f0f3de220d7431f174a5d9334281f4/tenor.gif?itemid=20554872",
     "https://media1.tenor.com/images/a51ae8f60e209627923e491188073443/tenor.gif?itemid=20554880"
-  ]
+  ],
+  "aliases": [],
+  "responses.self": "yua.commands.grumpy.responses.self",
+  "counter": "yua.commands.grumpy.counter"
 }

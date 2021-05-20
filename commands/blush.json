@@ -1,7 +1,6 @@
 {
   "name": "blush",
   "description": "yua.commands.blush.description",
-  "response": "yua.commands.blush.response",
   "links": [
     "https://media1.tenor.com/images/4c03573f06a1bd8841976abdafd16d26/tenor.gif?itemid=15711893",
     "https://media1.tenor.com/images/f72035e032125a5395883b8d68d9df5d/tenor.gif?itemid=16149781",
@@ -28,5 +27,9 @@
     "https://i.nobuwu.dev/nyaa/blush/22.gif",
     "https://i.nobuwu.dev/nyaa/blush/25.gif",
     "https://i.nobuwu.dev/nyaa/blush/26.gif"
-  ]
+  ],
+  "aliases": [],
+  "responses.self": "yua.commands.blush.responses.self",
+  "responses.towards": "yua.commands.blush.responses.towards",
+  "counter": "yua.commands.blush.counter"
 }

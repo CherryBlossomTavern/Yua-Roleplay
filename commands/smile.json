@@ -1,7 +1,6 @@
 {
   "name": "smile",
   "description": "yua.commands.smile.description",
-  "response": "yua.commands.smile.response",
   "links": [
     "https://media1.tenor.com/images/0a157faece8b75e2cc7bc32e0a2a166b/tenor.gif?itemid=16094441",
     "https://media1.tenor.com/images/d627d2facd06abb496f97c5943b2f9ae/tenor.gif?itemid=11346577",
@@ -29,5 +28,9 @@
     "https://i.nobuwu.dev/nyaa/smile/16.gif",
     "https://i.nobuwu.dev/nyaa/smile/17.gif",
     "https://i.nobuwu.dev/nyaa/smile/18.gif"
-  ]
+  ],
+  "aliases": [],
+  "responses.towards": "yua.commands.smile.responses.towards",
+  "response.want": "yua.commands.smile.responses.want",
+  "counter": "yua.commands.smile.counter"
 }

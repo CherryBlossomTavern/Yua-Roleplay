@@ -1,7 +1,6 @@
 {
   "name": "peck",
   "description": "yua.commands.peck.description",
-  "response": "yua.commands.peck.response",
   "links": [
     "https://media1.tenor.com/images/85ae811b41326a6138677b4293d4c0d8/tenor.gif?itemid=10824318",
     "https://media1.tenor.com/images/32d4f0642ebb373e3eb072b2b91e6064/tenor.gif?itemid=15150255",
@@ -15,5 +14,9 @@
     "https://media1.tenor.com/images/2a838aa7ad42305ddd65b3a73e33459f/tenor.gif?itemid=5390725",
     "https://i.nobuwu.dev/nyaa/kiss/3.gif",
     "https://i.nobuwu.dev/nyaa/kiss/8.gif"
-  ]
+  ],
+  "aliases": [],
+  "responses.towards": "yua.commands.peck.responses.towards",
+  "response.want": "yua.commands.peck.responses.want",
+  "counter": "yua.commands.peck.counter"
 }

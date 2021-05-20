@@ -1,7 +1,6 @@
 {
   "name": "tickle",
   "description": "yua.commands.tickle.description",
-  "response": "yua.commands.tickle.response",
   "links": [
     "https://media1.tenor.com/images/891894667f9def977be90cf8fc0594a4/tenor.gif?itemid=19915995",
     "https://media1.tenor.com/images/fea79fed0168efcaf1ddfb14d8af1a6d/tenor.gif?itemid=7283507",
@@ -13,5 +12,9 @@
     "https://media1.tenor.com/images/d38554c6e23b86c81f8d4a3764b38912/tenor.gif?itemid=11379131",
     "https://media1.tenor.com/images/02f62186ccb7fa8a2667f3216cfd7e13/tenor.gif?itemid=13269751",
     "https://media1.tenor.com/images/c4106315d0889667a9befbc121747145/tenor.gif?itemid=20218947"
-  ]
+  ],
+  "aliases": [],
+  "responses.towards": "yua.commands.tickle.responses.towards",
+  "response.want": "yua.commands.tickle.responses.want",
+  "counter": "yua.commands.tickle.counter"
 }

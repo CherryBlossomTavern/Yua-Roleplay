@@ -1,7 +1,6 @@
 {
   "name": "mad",
   "description": "yua.commands.mad.description",
-  "response": "yua.commands.mad.response",
   "links": [
     "https://media1.tenor.com/images/2e915cd96500daf6349a2f4a75a4e8de/tenor.gif?itemid=8409151",
     "https://media1.tenor.com/images/e56e1ae197ea11668756e6e82407e5c5/tenor.gif?itemid=12679335",
@@ -16,5 +15,9 @@
     "https://media1.tenor.com/images/83d3206895a105f1733c7a220cf1fc1f/tenor.gif?itemid=14725928",
     "https://i.nobuwu.dev/nyaa/pout/21.gif",
     "https://i.nobuwu.dev/nyaa/pout/18.gif"
-  ]
+  ],
+  "aliases": [],
+  "responses.self": "yua.commands.mad.responses.self",
+  "responses.towards": "yua.commands.mad.responses.towards",
+  "counter": "yua.commands.mad.counter"
 }

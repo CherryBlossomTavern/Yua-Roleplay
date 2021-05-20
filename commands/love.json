@@ -1,7 +1,6 @@
 {
   "name": "love",
   "description": "yua.commands.love.description",
-  "response": "yua.commands.love.response",
   "links": [
     "https://media1.tenor.com/images/110dbddfd3d662479c214cacb754995d/tenor.gif?itemid=10932413",
     "https://media1.tenor.com/images/fb1aa76944c156acc494fff37ebdbcfa/tenor.gif?itemid=14521920",
@@ -15,5 +14,9 @@
     "https://media1.tenor.com/images/c94e75fc2ba38a968d6a903d7781824f/tenor.gif?itemid=20559099",
     "https://i.nobuwu.dev/nyaa/blush/0.gif",
     "https://i.nobuwu.dev/nyaa/cuddle/4.gif"
-  ]
+  ],
+  "aliases": [],
+  "responses.towards": "yua.commands.love.responses.towards",
+  "response.want": "yua.commands.love.responses.want",
+  "counter": "yua.commands.love.counter"
 }

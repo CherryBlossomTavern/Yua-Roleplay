@@ -1,7 +1,6 @@
 {
   "name": "sleep",
   "description": "yua.commands.sleep.description",
-  "response": "yua.commands.sleep.response",
   "links": [
     "https://media1.tenor.com/images/0de5d7e34abf844dbaeada287d3223fe/tenor.gif?itemid=17513621",
     "https://media1.tenor.com/images/b0daf8299389bf3fa4260a91690f0e12/tenor.gif?itemid=11478646",
@@ -13,5 +12,8 @@
     "https://media1.tenor.com/images/bc308ef7ed3753ae73f1ff047e14c554/tenor.gif?itemid=9920974",
     "https://media1.tenor.com/images/250ab83a7b795268ffd85c71bff0920f/tenor.gif?itemid=19525636",
     "https://media1.tenor.com/images/18474dc6afa97cef50ad53cf84e37d08/tenor.gif?itemid=12375072"
-  ]
+  ],
+  "aliases": [],
+  "responses.self": "yua.commands.sleep.responses.self",
+  "counter": "yua.commands.sleep.counter"
 }

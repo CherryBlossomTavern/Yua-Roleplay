@@ -1,7 +1,6 @@
 {
   "name": "pat",
   "description": "yua.commands.pat.description",
-  "response": "yua.commands.pat.response",
   "links": [
     "https://media1.tenor.com/images/da8f0e8dd1a7f7db5298bda9cc648a9a/tenor.gif?itemid=12018819",
     "https://media1.tenor.com/images/f5176d4c5cbb776e85af5dcc5eea59be/tenor.gif?itemid=5081286",
@@ -44,5 +43,9 @@
     "https://i.nobuwu.dev/nyaa/pat/35.gif",
     "https://i.nobuwu.dev/nyaa/pat/36.gif",
     "https://i.nobuwu.dev/nyaa/pat/37.gif"
-  ]
+  ],
+  "aliases": [],
+  "responses.towards": "yua.commands.pat.responses.towards",
+  "response.want": "yua.commands.pat.responses.want",
+  "counter": "yua.commands.pat.counter"
 }

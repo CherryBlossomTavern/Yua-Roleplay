@@ -1,7 +1,6 @@
 {
   "name": "bye",
   "description": "yua.commands.bye.description",
-  "response": "yua.commands.bye.response",
   "links": [
     "https://media1.tenor.com/images/5ec19a5bfed4ac58ceb52e2fc265a3e3/tenor.gif?itemid=13701943",
     "https://media1.tenor.com/images/86a81a4a4e63afc759800f452b396787/tenor.gif?itemid=15151699",
@@ -15,5 +14,9 @@
     "https://media1.tenor.com/images/4cdc75a9068ae855379fcf99c217e45f/tenor.gif?itemid=9434390",
     "https://i.nobuwu.dev/nyaa/greet/0.gif",
     "https://i.nobuwu.dev/nyaa/greet/7.gif"
-  ]
+  ],
+  "aliases": [],
+  "responses.self": "yua.commands.bye.responses.self",
+  "responses.towards": "yua.commands.bye.responses.towards",
+  "counter": "yua.commands.bye.counter"
 }
