@@ -1,9 +1,10 @@
 {
-  "name": "",
-  "description": "yua.commands",
-  "responses.towards": "yua.commands",
-  "responses.want": "yua.commands",
-  "counter": "yua.commands",
+  "name": "CMD_NAME",
+  "description": "yua.commands.CMD_NAME.description",
+  "responses.towards": "yua.commands.CMD_NAME.responses.towards",
+  "responses.want": "yua.commands.CMD_NAME.responses.want",
+  "counters.towards": "yua.commands.CMD_NAME.counters.towards",
+        "counters.want": "yua.commands.CMD_NAME.counters.toward.want",
   "aliases": [
 
   ],
