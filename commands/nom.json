@@ -22,7 +22,7 @@
   ],
   "aliases": [],
   "responses.towards": "yua.commands.nom.responses.towards",
-  "response.want": "yua.commands.nom.responses.want",
+  "responses.want": "yua.commands.nom.responses.want",
   "counters.towards": "yua.commands.nom.counters.towards",
-  "counters.want": "yua.commands.nom.counters.toward.want"
+  "counters.want": "yua.commands.nom.counters.want"
 }

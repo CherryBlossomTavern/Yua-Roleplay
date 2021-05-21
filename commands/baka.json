@@ -15,7 +15,7 @@
   ],
   "aliases": [],
   "responses.towards": "yua.commands.baka.responses.towards",
-  "response.want": "yua.commands.baka.responses.want",
+  "responses.want": "yua.commands.baka.responses.want",
   "counters.towards": "yua.commands.baka.counters.towards",
-  "counters.want": "yua.commands.baka.counters.toward.want"
+  "counters.want": "yua.commands.baka.counters.want"
 }

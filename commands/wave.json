@@ -24,7 +24,7 @@
   ],
   "aliases": [],
   "responses.towards": "yua.commands.wave.responses.towards",
-  "response.want": "yua.commands.wave.responses.want",
+  "responses.want": "yua.commands.wave.responses.want",
   "counters.towards": "yua.commands.wave.counters.towards",
-  "counters.want": "yua.commands.wave.counters.toward.want"
+  "counters.want": "yua.commands.wave.counters.want"
 }

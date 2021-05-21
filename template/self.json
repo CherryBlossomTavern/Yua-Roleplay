@@ -1,0 +1,12 @@
+{
+  "name": "CMD_NAME",
+  "description": "yua.commands.CMD_NAME.description",
+  "responses.self": "yua.commands.CMD_NAME.responses.self",
+  "counters.self": "yua.commands.CMD_NAME.counters.self",
+  "aliases": [
+
+  ],
+  "links": [
+    ""
+  ] 
+}

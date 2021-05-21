@@ -15,7 +15,7 @@
   ],
   "aliases": [],
   "responses.towards": "yua.commands.stab.responses.towards",
-  "response.want": "yua.commands.stab.responses.want",
+  "responses.want": "yua.commands.stab.responses.want",
   "counters.towards": "yua.commands.stab.counters.towards",
-  "counters.want": "yua.commands.stab.counters.toward.want"
+  "counters.want": "yua.commands.stab.counters.want"
 }

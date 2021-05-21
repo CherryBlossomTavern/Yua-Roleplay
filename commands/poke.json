@@ -27,7 +27,7 @@
   ],
   "aliases": [],
   "responses.towards": "yua.commands.poke.responses.towards",
-  "response.want": "yua.commands.poke.responses.want",
+  "responses.want": "yua.commands.poke.responses.want",
   "counters.towards": "yua.commands.poke.counters.towards",
-  "counters.want": "yua.commands.poke.counters.toward.want"
+  "counters.want": "yua.commands.poke.counters.want"
 }
