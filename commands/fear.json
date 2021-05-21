@@ -17,5 +17,5 @@
   "responses.towards": "yua.commands.fear.responses.towards",
   "response.want": "yua.commands.fear.responses.want",
   "counters.towards": "yua.commands.fear.counters.towards",
-  "counters.want": "yua.commands.fear.counters.toward.want"
+  "counters.want": "yua.commands.fear.counters.want"
 }

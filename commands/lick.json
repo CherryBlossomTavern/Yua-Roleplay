@@ -28,5 +28,5 @@
   "responses.towards": "yua.commands.lick.responses.towards",
   "response.want": "yua.commands.lick.responses.want",
   "counters.towards": "yua.commands.lick.counters.towards",
-  "counters.want": "yua.commands.lick.counters.toward.want"
+  "counters.want": "yua.commands.lick.counters.want"
 }

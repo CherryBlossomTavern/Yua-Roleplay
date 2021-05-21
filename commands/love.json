@@ -19,5 +19,5 @@
   "responses.towards": "yua.commands.love.responses.towards",
   "response.want": "yua.commands.love.responses.want",
   "counters.towards": "yua.commands.love.counters.towards",
-  "counters.want": "yua.commands.love.counters.toward.want"
+  "counters.want": "yua.commands.love.counters.want"
 }

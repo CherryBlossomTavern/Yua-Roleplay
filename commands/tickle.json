@@ -17,5 +17,5 @@
   "responses.towards": "yua.commands.tickle.responses.towards",
   "response.want": "yua.commands.tickle.responses.want",
   "counters.towards": "yua.commands.tickle.counters.towards",
-  "counters.want": "yua.commands.tickle.counters.toward.want"
+  "counters.want": "yua.commands.tickle.counters.want"
 }

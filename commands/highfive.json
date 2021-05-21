@@ -24,5 +24,5 @@
   "responses.towards": "yua.commands.highfive.responses.towards",
   "response.want": "yua.commands.highfive.responses.want",
   "counters.towards": "yua.commands.highfive.counters.towards",
-  "counters.want": "yua.commands.highfive.counters.toward.want"
+  "counters.want": "yua.commands.highfive.counters.want"
 }
