@@ -35,7 +35,9 @@
     "https://i.nobuwu.dev/nyaa/kiss/25.gif",
     "https://i.nobuwu.dev/nyaa/kiss/26.gif"
   ],
-  "aliases": [],
+  "aliases": [
+    "kith"
+  ],
   "responses.towards": "yua.commands.kiss.responses.towards",
   "responses.want": "yua.commands.kiss.responses.want",
   "counters.towards": "yua.commands.kiss.counters.towards",

@@ -5,9 +5,7 @@
   "responses.towards": "yua.commands.CMD_NAME.responses.towards",
   "counters.self": "yua.commands.CMD_NAME.counters.self",
   "counters.towards": "yua.commands.CMD_NAME.counters.towards",
-  "aliases": [
-
-  ],
+  "aliases": [],
   "links": [
     ""
   ] 
