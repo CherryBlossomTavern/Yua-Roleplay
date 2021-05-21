@@ -1,7 +1,6 @@
 {
   "name": "baka",
   "description": "yua.commands.baka.description",
-  "response": "yua.commands.baka.response",
   "links": [
     "https://media1.tenor.com/images/856a34bc945f740b7c4f31dfec044620/tenor.gif?itemid=18059578",
     "https://media1.tenor.com/images/e6ee9ecaf46a515f833173860e4c550b/tenor.gif?itemid=13893185",
@@ -13,5 +12,10 @@
     "https://media1.tenor.com/images/406ef128433bb6b0d62ba092ed5ec67d/tenor.gif?itemid=14954653",
     "https://media1.tenor.com/images/a3108070c1fe6b40a99e5add546e3423/tenor.gif?itemid=9441674",
     "https://media1.tenor.com/images/aa301f667fd42228343a5fcc60b1373c/tenor.gif?itemid=9694074"
-  ]
+  ],
+  "aliases": [],
+  "responses.towards": "yua.commands.baka.responses.towards",
+  "response.want": "yua.commands.baka.responses.want",
+  "counters.towards": "yua.commands.baka.counters.towards",
+  "counters.want": "yua.commands.baka.counters.toward.want"
 }

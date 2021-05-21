@@ -1,7 +1,6 @@
 {
   "name": "fear",
   "description": "yua.commands.fear.description",
-  "response": "yua.commands.fear.response",
   "links": [
     "https://media1.tenor.com/images/33a05b29ac2b6d9be9c8f23ceab06f46/tenor.gif?itemid=9955707",
     "https://media1.tenor.com/images/cc1f12c1d2f453358d01f89c445feb21/tenor.gif?itemid=6091842",
@@ -13,5 +12,10 @@
     "https://media1.tenor.com/images/5ac314a46237b9b648c49cdf0fd7c71a/tenor.gif?itemid=20554799",
     "https://media1.tenor.com/images/296c897c75cc095a3bab042d314fa92d/tenor.gif?itemid=20554802",
     "https://media1.tenor.com/images/e0e0342a4d3d9524ba56b732cd0f81ac/tenor.gif?itemid=9035038"
-  ]
+  ],
+  "aliases": [],
+  "responses.towards": "yua.commands.fear.responses.towards",
+  "response.want": "yua.commands.fear.responses.want",
+  "counters.towards": "yua.commands.fear.counters.towards",
+  "counters.want": "yua.commands.fear.counters.toward.want"
 }

@@ -1,7 +1,6 @@
 {
   "name": "kiss",
   "description": "yua.commands.kiss.description",
-  "response": "yua.commands.kiss.response",
   "links": [
     "https://media1.tenor.com/images/d307db89f181813e0d05937b5feb4254/tenor.gif?itemid=16371489",
     "https://media1.tenor.com/images/bc5e143ab33084961904240f431ca0b1/tenor.gif?itemid=9838409",
@@ -35,5 +34,10 @@
     "https://i.nobuwu.dev/nyaa/kiss/24.gif",
     "https://i.nobuwu.dev/nyaa/kiss/25.gif",
     "https://i.nobuwu.dev/nyaa/kiss/26.gif"
-  ]
+  ],
+  "aliases": [],
+  "responses.towards": "yua.commands.kiss.responses.towards",
+  "response.want": "yua.commands.kiss.responses.want",
+  "counters.towards": "yua.commands.kiss.counters.towards",
+  "counters.want": "yua.commands.kiss.counters.toward.want"
 }

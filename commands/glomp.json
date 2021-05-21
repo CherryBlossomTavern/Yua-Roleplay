@@ -1,7 +1,6 @@
 {
   "name": "glomp",
   "description": "yua.commands.glomp.description",
-  "response": "yua.commands.glomp.response",
   "links": [
     "https://media1.tenor.com/images/98db294aad919f808e6ef69c76361cda/tenor.gif?itemid=17959813",
     "https://media1.tenor.com/images/868514ccca94037608a50a9bd60e69ff/tenor.gif?itemid=13400355",
@@ -16,5 +15,10 @@
     "https://i.nobuwu.dev/nyaa/hug/7.gif",
     "https://i.nobuwu.dev/nyaa/hug/13.gif",
     "https://i.nobuwu.dev/nyaa/hug/15.gif"
-  ]
+  ],
+  "aliases": [],
+  "responses.towards": "yua.commands.glomp.responses.towards",
+  "response.want": "yua.commands.glomp.responses.want",
+  "counters.towards": "yua.commands.glomp.counters.towards",
+  "counters.want": "yua.commands.glomp.counters.toward.want"
 }

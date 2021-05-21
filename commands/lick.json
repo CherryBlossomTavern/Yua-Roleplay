@@ -1,7 +1,6 @@
 {
   "name": "lick",
   "description": "yua.commands.lick.description",
-  "response": "yua.commands.lick.response",
   "links": [
     "https://media1.tenor.com/images/6962b10a1f6bf24acad8153ec9157e07/tenor.gif?itemid=20597805",
     "https://media1.tenor.com/images/4717402a9f58d9821b88120c99ae2672/tenor.gif?itemid=20597940",
@@ -24,5 +23,10 @@
     "https://i.nobuwu.dev/nyaa/lick/13.gif",
     "https://i.nobuwu.dev/nyaa/lick/15.gif",
     "https://i.nobuwu.dev/nyaa/lick/16.gif"
-  ]
+  ],
+  "aliases": [],
+  "responses.towards": "yua.commands.lick.responses.towards",
+  "response.want": "yua.commands.lick.responses.want",
+  "counters.towards": "yua.commands.lick.counters.towards",
+  "counters.want": "yua.commands.lick.counters.toward.want"
 }

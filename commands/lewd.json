@@ -1,7 +1,6 @@
 {
   "name": "lewd",
   "description": "yua.commands.lewd.description",
-  "response": "yua.commands.lewd.response",
   "links": [
     "https://media1.tenor.com/images/9862e3023816f54bc451ee1cfed2351f/tenor.gif?itemid=5453531",
     "https://media1.tenor.com/images/fa27732ed9145801ad4bfc9bc3ec6eb7/tenor.gif?itemid=6216499",
@@ -15,5 +14,10 @@
     "https://media1.tenor.com/images/2771042233fda7678d528893a1711bfb/tenor.gif?itemid=20557571",
     "https://media1.tenor.com/images/426db848bed10a3224bab20fbe4fd4de/tenor.gif?itemid=20557623",
     "https://media1.tenor.com/images/52ea7d449a5402030a3432fd3c94aa99/tenor.gif?itemid=13119051"
-  ]
+  ],
+  "aliases": [],
+  "responses.self": "yua.commands.lewd.responses.self",
+  "responses.towards": "yua.commands.lewd.responses.towards",
+  "counters.self": "yua.commands.lewd.counters.self",
+  "counters.towards": "yua.commands.lewd.counters.towards"
 }

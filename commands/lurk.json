@@ -1,7 +1,6 @@
 {
   "name": "lurk",
   "description": "yua.commands.lurk.description",
-  "response": "yua.commands.lurk.response",
   "links": [
     "https://media1.tenor.com/images/4966f06531fa2ae23895ff5fe02f8547/tenor.gif?itemid=17348784",
     "https://media1.tenor.com/images/e48e42bc8d37cfa44d117e511d3fc7c9/tenor.gif?itemid=18949055",
@@ -15,5 +14,8 @@
     "https://media1.tenor.com/images/93c2f01419e232b094591c12448a4ae3/tenor.gif?itemid=20564171",
     "https://media1.tenor.com/images/3dc0805e0945136fd1da521ff8139120/tenor.gif?itemid=19186121",
     "https://i.nobuwu.dev/nyaa/dance/24.gif"
-  ]
+  ],
+  "aliases": [],
+  "responses.self": "yua.commands.lurk.responses.self",
+  "counters.self": "yua.commands.lurk.counters.self"
 }

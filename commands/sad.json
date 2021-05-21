@@ -1,7 +1,6 @@
 {
   "name": "sad",
   "description": "yua.commands.sad.description",
-  "response": "yua.commands.sad.response",
   "links": [
     "https://media1.tenor.com/images/9cbeebd1e7cc941e6a3f468bae756547/tenor.gif?itemid=13886240",
     "https://media1.tenor.com/images/3d4b4dee9ced06f02719221e59015b52/tenor.gif?itemid=14210687",
@@ -14,5 +13,10 @@
     "https://media1.tenor.com/images/a00e0b18393b192846d9c134f57a09bd/tenor.gif?itemid=20564676",
     "https://media1.tenor.com/images/c686bd499d9dbdae96b6c7709322b340/tenor.gif?itemid=20564684",
     "https://media1.tenor.com/images/0f8fd414104904a88880b6672e7c9fb8/tenor.gif?itemid=19277528"
-  ]
+  ],
+  "aliases": [],
+  "responses.self": "yua.commands.sad.responses.self",
+  "responses.towards": "yua.commands.sad.responses.towards",
+  "counters.self": "yua.commands.sad.counters.self",
+  "counters.towards": "yua.commands.sad.counters.towards"
 }

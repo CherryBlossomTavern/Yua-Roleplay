@@ -1,7 +1,6 @@
 {
   "name": "kill",
   "description": "yua.commands.kill.description",
-  "response": "yua.commands.kill.response",
   "links": [
     "https://media1.tenor.com/images/bb4b7a7559c709ffa26c5301150e07e4/tenor.gif?itemid=9955653",
     "https://media1.tenor.com/images/0cead32a049a3e0e0803315c388725b0/tenor.gif?itemid=12818133",
@@ -18,5 +17,10 @@
     "https://i.nobuwu.dev/nyaa/punch/5.gif",
     "https://i.nobuwu.dev/nyaa/punch/10.gif",
     "https://i.nobuwu.dev/nyaa/slap/26.gif"
-  ]
+  ],
+  "aliases": [],
+  "responses.towards": "yua.commands.kill.responses.towards",
+  "response.want": "yua.commands.kill.responses.want",
+  "counters.towards": "yua.commands.kill.counters.towards",
+  "counters.want": "yua.commands.kill.counters.toward.want"
 }

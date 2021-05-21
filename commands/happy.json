@@ -1,7 +1,6 @@
 {
   "name": "happy",
   "description": "yua.commands.happy.description",
-  "response": "yua.commands.happy.response",
   "links": [
     "https://media1.tenor.com/images/ce2a84ad0004b955e0b1fe54b08378ab/tenor.gif?itemid=13451198",
     "https://media1.tenor.com/images/d5da5398e5a193120690d0f0ca64d2ed/tenor.gif?itemid=8661798",
@@ -15,5 +14,10 @@
     "https://media1.tenor.com/images/1a6952682b5fccf8c803cd46014eea78/tenor.gif?itemid=20556942",
     "https://i.nobuwu.dev/nyaa/blush/24.gif",
     "https://i.nobuwu.dev/nyaa/smile/19.gif"
-  ]
+  ],
+  "aliases": [],
+  "responses.self": "yua.commands.happy.responses.self",
+  "responses.towards": "yua.commands.happy.responses.towards",
+  "counters.self": "yua.commands.happy.counters.self",
+  "counters.towards": "yua.commands.happy.counters.towards"
 }

@@ -1,7 +1,6 @@
 {
   "name": "smart",
   "description": "yua.commands.smart.description",
-  "response": "yua.commands.smart.response",
   "links": [
     "https://media1.tenor.com/images/a8851283d179f820a6648973129f3ee8/tenor.gif?itemid=20544657",
     "https://media1.tenor.com/images/56e77f4388292ff9ca7e72ed1b6021b0/tenor.gif?itemid=17494617",
@@ -35,5 +34,10 @@
     "https://i.nobuwu.dev/nyaa/glasses/23.gif",
     "https://i.nobuwu.dev/nyaa/glasses/24.gif",
     "https://i.nobuwu.dev/nyaa/glasses/25.gif"
-  ]
+  ],
+  "aliases": [],
+  "responses.self": "yua.commands.smart.responses.self",
+  "responses.towards": "yua.commands.smart.responses.towards",
+  "counters.self": "yua.commands.smart.counters.self",
+  "counters.towards": "yua.commands.smart.counters.towards"
 }

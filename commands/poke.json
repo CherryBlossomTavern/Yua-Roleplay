@@ -1,7 +1,6 @@
 {
   "name": "poke",
   "description": "yua.commands.poke.description",
-  "response": "yua.commands.poke.response",
   "links": [
     "https://media1.tenor.com/images/8fe23ec8e2c5e44964e5c11983ff6f41/tenor.gif?itemid=5600215",
     "https://media1.tenor.com/images/ae828855281e426e9cdeaaa986f99f9e/tenor.gif?itemid=13471766",
@@ -25,5 +24,10 @@
     "https://i.nobuwu.dev/nyaa/poke/12.gif",
     "https://i.nobuwu.dev/nyaa/poke/15.gif",
     "https://i.nobuwu.dev/nyaa/poke/16.gif"
-  ]
+  ],
+  "aliases": [],
+  "responses.towards": "yua.commands.poke.responses.towards",
+  "response.want": "yua.commands.poke.responses.want",
+  "counters.towards": "yua.commands.poke.counters.towards",
+  "counters.want": "yua.commands.poke.counters.toward.want"
 }

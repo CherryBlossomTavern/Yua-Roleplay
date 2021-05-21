@@ -1,7 +1,6 @@
 {
   "name": "wave",
   "description": "yua.commands.wave.description",
-  "response": "yua.commands.wave.response",
   "links": [
     "https://media1.tenor.com/images/a4626b5116bb4259a2840539a24d74f7/tenor.gif?itemid=14386503",
     "https://media1.tenor.com/images/538825f8bd7e421ac1103b5e7d878138/tenor.gif?itemid=15875040",
@@ -22,5 +21,10 @@
     "https://i.nobuwu.dev/nyaa/greet/16.gif",
     "https://i.nobuwu.dev/nyaa/greet/17.gif",
     "https://i.nobuwu.dev/nyaa/greet/18.gif"
-  ]
+  ],
+  "aliases": [],
+  "responses.towards": "yua.commands.wave.responses.towards",
+  "response.want": "yua.commands.wave.responses.want",
+  "counters.towards": "yua.commands.wave.counters.towards",
+  "counters.want": "yua.commands.wave.counters.toward.want"
 }

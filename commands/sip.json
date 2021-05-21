@@ -1,7 +1,6 @@
 {
   "name": "sip",
   "description": "yua.commands.sip.description",
-  "response": "yua.commands.sip.response",
   "links": [
     "https://media1.tenor.com/images/e802ca63cd6b5dd91e352177ee44da09/tenor.gif?itemid=20207034",
     "https://media1.tenor.com/images/3386256f558dab3b4e2799023dda8e51/tenor.gif?itemid=16652769",
@@ -18,5 +17,10 @@
     "https://media1.tenor.com/images/654ea6cb5648b42d4a4b0e0ad5adf0f3/tenor.gif?itemid=17141639",
     "https://media1.tenor.com/images/f833e1b0bab6139084bcc805465a3423/tenor.gif?itemid=17705867",
     "https://media1.tenor.com/images/c21fe088b04f4fbf628d5eae4438ae6b/tenor.gif?itemid=16373297"
-  ]
+  ],
+  "aliases": [],
+  "responses.self": "yua.commands.sip.responses.self",
+  "responses.towards": "yua.commands.sip.responses.towards",
+  "counters.self": "yua.commands.sip.counters.self",
+  "counters.towards": "yua.commands.sip.counters.towards"
 }

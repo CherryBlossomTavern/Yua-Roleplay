@@ -1,7 +1,6 @@
 {
   "name": "highfive",
   "description": "yua.commands.highfive.description",
-  "response": "yua.commands.highfive.response",
   "links": [
     "https://media1.tenor.com/images/744dccb53da9e3847b4efa724975546c/tenor.gif?itemid=20379656",
     "https://media1.tenor.com/images/7b1f06eac73c36721912edcaacddf666/tenor.gif?itemid=10559431",
@@ -20,5 +19,10 @@
     "https://i.nobuwu.dev/nyaa/highfive/7.gif",
     "https://i.nobuwu.dev/nyaa/highfive/8.gif",
     "https://i.nobuwu.dev/nyaa/highfive/9.gif"
-  ]
+  ],
+  "aliases": [],
+  "responses.towards": "yua.commands.highfive.responses.towards",
+  "response.want": "yua.commands.highfive.responses.want",
+  "counters.towards": "yua.commands.highfive.counters.towards",
+  "counters.want": "yua.commands.highfive.counters.toward.want"
 }

@@ -1,7 +1,6 @@
 {
   "name": "feed",
   "description": "yua.commands.feed.description",
-  "response": "yua.commands.feed.response",
   "links": [
     "https://media1.tenor.com/images/6c12fa877586f8e92abe3c7133e98c62/tenor.gif?itemid=16013711",
     "https://media1.tenor.com/images/73aad410ea8c73be44b016d6548f05d7/tenor.gif?itemid=19885101",
@@ -15,5 +14,10 @@
     "https://media1.tenor.com/images/8c83febda34de8b38d07057e28094e3a/tenor.gif?itemid=12806391",
     "https://i.nobuwu.dev/nyaa/nom/1.gif",
     "https://i.nobuwu.dev/nyaa/nom/25.gif"
-  ]
+  ],
+  "aliases": [],
+  "responses.towards": "yua.commands.feed.responses.towards",
+  "response.want": "yua.commands.feed.responses.want",
+  "counters.towards": "yua.commands.feed.counters.towards",
+  "counters.want": "yua.commands.feed.counters.toward.want"
 }

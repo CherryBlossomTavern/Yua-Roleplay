@@ -1,7 +1,6 @@
 {
   "name": "stab",
   "description": "yua.commands.stab.description",
-  "response": "yua.commands.stab.response",
   "links": [
     "https://media1.tenor.com/images/7e8903c7fb6b8426fe9e098be82801a9/tenor.gif?itemid=15987124",
     "https://media1.tenor.com/images/0558f808e125e21eb192878619e1df66/tenor.gif?itemid=16607516",
@@ -13,5 +12,10 @@
     "https://media1.tenor.com/images/1b0e5db7d4aca04634e4c639dd1219c0/tenor.gif?itemid=16732703",
     "https://media1.tenor.com/images/e1d64140faed4d1388306df75ff8fa8c/tenor.gif?itemid=17768894",
     "https://media1.tenor.com/images/e4c15220a19c94ee7b193307893942d8/tenor.gif?itemid=14178229"
-  ]
+  ],
+  "aliases": [],
+  "responses.towards": "yua.commands.stab.responses.towards",
+  "response.want": "yua.commands.stab.responses.want",
+  "counters.towards": "yua.commands.stab.counters.towards",
+  "counters.want": "yua.commands.stab.counters.toward.want"
 }

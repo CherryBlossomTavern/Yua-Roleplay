@@ -1,7 +1,6 @@
 {
   "name": "slap",
   "description": "yua.commands.slap.description",
-  "response": "yua.commands.slap.response",
   "links": [
     "https://media1.tenor.com/images/5b8e7a9278e8b3230f7709b797ebbcb0/tenor.gif?itemid=7176015",
     "https://media1.tenor.com/images/bfb3c0e51e505330705c35ea10010894/tenor.gif?itemid=12497820",
@@ -37,5 +36,10 @@
     "https://i.nobuwu.dev/nyaa/slap/23.gif",
     "https://i.nobuwu.dev/nyaa/slap/27.gif",
     "https://i.nobuwu.dev/nyaa/slap/28.gif"
-  ]
+  ],
+  "aliases": [],
+  "responses.towards": "yua.commands.slap.responses.towards",
+  "response.want": "yua.commands.slap.responses.want",
+  "counters.towards": "yua.commands.slap.counters.towards",
+  "counters.want": "yua.commands.slap.counters.toward.want"
 }

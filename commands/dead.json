@@ -1,7 +1,6 @@
 {
   "name": "dead",
   "description": "yua.commands.dead.description",
-  "response": "yua.commands.dead.response",
   "links": [
     "https://media1.tenor.com/images/24f2f1015aa273303e15f48a69c78260/tenor.gif?itemid=6373002",
     "https://media1.tenor.com/images/663b353a3ff20b0aca9b64667ea2d7e8/tenor.gif?itemid=7689712",
@@ -13,5 +12,8 @@
     "https://media1.tenor.com/images/79f1a0dd1bfc67b44c2d7ce4404c2a66/tenor.gif?itemid=5417340",
     "https://media1.tenor.com/images/25a5b0faa2044db0b1e5e3ab2fb8d4f0/tenor.gif?itemid=15157935",
     "https://media1.tenor.com/images/4b8a20e7dbd56575f1af27d9d26ff5e5/tenor.gif?itemid=3893716"
-  ]
+  ],
+  "aliases": [],
+  "responses.self": "yua.commands.dead.responses.self",
+  "counters.self": "yua.commands.dead.counters.self"
 }

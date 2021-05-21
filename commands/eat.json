@@ -1,7 +1,6 @@
 {
   "name": "eat",
   "description": "yua.commands.eat.description",
-  "response": "yua.commands.eat.response",
   "links": [
     "https://media1.tenor.com/images/0de27657daa673ccd7a60cf6919084d9/tenor.gif?itemid=4848690",
     "https://media1.tenor.com/images/5d6baa94cd7a02d0751779c851c598b9/tenor.gif?itemid=7889888",
@@ -33,5 +32,10 @@
     "https://i.nobuwu.dev/nyaa/nom/27.gif",
     "https://i.nobuwu.dev/nyaa/nom/30.gif",
     "https://media1.tenor.com/images/6f7436accef81dbb2cb1a8b3af2637fa/tenor.gif?itemid=16770961"
-  ]
+  ],
+  "aliases": [],
+  "responses.self": "yua.commands.eat.responses.self",
+  "responses.towards": "yua.commands.eat.responses.towards",
+  "counters.self": "yua.commands.eat.counters.self",
+  "counters.towards": "yua.commands.eat.counters.towards"
 }

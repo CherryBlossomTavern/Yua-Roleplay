@@ -1,7 +1,6 @@
 {
   "name": "bored",
   "description": "yua.commands.bored.description",
-  "response": "yua.commands.bored.response",
   "links": [
     "https://media1.tenor.com/images/b353dcd4eb7b36ae6ce50e83824dc66e/tenor.gif?itemid=11579685",
     "https://media1.tenor.com/images/2ed5a360a233ad45bf7ec122476c0fe4/tenor.gif?itemid=15916939",
@@ -13,5 +12,8 @@
     "https://media1.tenor.com/images/da89d9a8aeb28fd73f0c8d17c675bd30/tenor.gif?itemid=15021625",
     "https://media1.tenor.com/images/2771430a3bad24eae2a712ffe621a599/tenor.gif?itemid=17778357",
     "https://media1.tenor.com/images/717ec8721e21b9e0f989a1e205e4b5ba/tenor.gif?itemid=15963940"
-  ]
+  ],
+  "aliases": [],
+  "responses.self": "yua.commands.bored.responses.self",
+  "counters.self": "yua.commands.bored.counters.self"
 }
