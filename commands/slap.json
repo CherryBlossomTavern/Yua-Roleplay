@@ -39,7 +39,7 @@
   ],
   "aliases": [],
   "responses.towards": "yua.commands.slap.responses.towards",
-  "response.want": "yua.commands.slap.responses.want",
+  "responses.want": "yua.commands.slap.responses.want",
   "counters.towards": "yua.commands.slap.counters.towards",
   "counters.want": "yua.commands.slap.counters.want"
 }
