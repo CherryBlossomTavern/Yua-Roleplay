@@ -47,5 +47,6 @@
   "aliases": [],
   "responses.towards": "yua.commands.pat.responses.towards",
   "response.want": "yua.commands.pat.responses.want",
-  "counter": "yua.commands.pat.counter"
+  "counters.towards": "yua.commands.pat.counters.towards",
+  "counters.want": "yua.commands.pat.counters.toward.want"
 }

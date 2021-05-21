@@ -20,5 +20,6 @@
   "aliases": [],
   "responses.self": "yua.commands.vibe.responses.self",
   "responses.towards": "yua.commands.vibe.responses.towards",
-  "counter": "yua.commands.vibe.counter"
+  "counters.self": "yua.commands.vibe.counters.self",
+  "counters.towards": "yua.commands.vibe.counters.towards"
 }

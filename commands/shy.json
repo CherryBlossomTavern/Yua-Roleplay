@@ -16,5 +16,5 @@
   ],
   "aliases": [],
   "responses.self": "yua.commands.shy.responses.self",
-  "counter": "yua.commands.shy.counter"
+  "counters.self": "yua.commands.shy.counters.self"
 }

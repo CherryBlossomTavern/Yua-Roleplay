@@ -23,5 +23,6 @@
   "aliases": [],
   "responses.towards": "yua.commands.highfive.responses.towards",
   "response.want": "yua.commands.highfive.responses.want",
-  "counter": "yua.commands.highfive.counter"
+  "counters.towards": "yua.commands.highfive.counters.towards",
+  "counters.want": "yua.commands.highfive.counters.toward.want"
 }

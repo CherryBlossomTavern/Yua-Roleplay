@@ -16,5 +16,6 @@
   "aliases": [],
   "responses.towards": "yua.commands.tickle.responses.towards",
   "response.want": "yua.commands.tickle.responses.want",
-  "counter": "yua.commands.tickle.counter"
+  "counters.towards": "yua.commands.tickle.counters.towards",
+  "counters.want": "yua.commands.tickle.counters.toward.want"
 }

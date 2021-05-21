@@ -16,5 +16,6 @@
   "aliases": [],
   "responses.self": "yua.commands.blowkiss.responses.self",
   "responses.towards": "yua.commands.blowkiss.responses.towards",
-  "counter": "yua.commands.blowkiss.counter"
+  "counters.self": "yua.commands.blowkiss.counters.self",
+  "counters.towards": "yua.commands.blowkiss.counters.towards"
 }

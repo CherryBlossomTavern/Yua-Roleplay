@@ -18,5 +18,6 @@
   "aliases": [],
   "responses.towards": "yua.commands.peck.responses.towards",
   "response.want": "yua.commands.peck.responses.want",
-  "counter": "yua.commands.peck.counter"
+  "counters.towards": "yua.commands.peck.counters.towards",
+  "counters.want": "yua.commands.peck.counters.toward.want"
 }

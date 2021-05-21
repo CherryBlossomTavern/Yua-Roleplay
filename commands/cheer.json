@@ -16,5 +16,6 @@
   "aliases": [],
   "responses.self": "yua.commands.cheer.responses.self",
   "responses.towards": "yua.commands.cheer.responses.towards",
-  "counter": "yua.commands.cheer.counter"
+  "counters.self": "yua.commands.cheer.counters.self",
+  "counters.towards": "yua.commands.cheer.counters.towards"
 }

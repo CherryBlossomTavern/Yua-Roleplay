@@ -17,5 +17,6 @@
   "aliases": [],
   "responses.towards": "yua.commands.bonk.responses.towards",
   "response.want": "yua.commands.bonk.responses.want",
-  "counter": "yua.commands.bonk.counter"
+  "counters.towards": "yua.commands.bonk.counters.towards",
+  "counters.want": "yua.commands.bonk.counters.toward.want"
 }

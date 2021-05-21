@@ -15,5 +15,5 @@
   ],
   "aliases": [],
   "responses.self": "yua.commands.facepalm.responses.self",
-  "counter": "yua.commands.facepalm.counter"
+  "counters.self": "yua.commands.facepalm.counters.self"
 }

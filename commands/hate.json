@@ -14,5 +14,6 @@
   "aliases": [],
   "responses.self": "yua.commands.hate.responses.self",
   "responses.towards": "yua.commands.hate.responses.towards",
-  "counter": "yua.commands.hate.counter"
+  "counters.self": "yua.commands.hate.counters.self",
+  "counters.towards": "yua.commands.hate.counters.towards"
 }

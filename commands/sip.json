@@ -21,5 +21,6 @@
   "aliases": [],
   "responses.self": "yua.commands.sip.responses.self",
   "responses.towards": "yua.commands.sip.responses.towards",
-  "counter": "yua.commands.sip.counter"
+  "counters.self": "yua.commands.sip.counters.self",
+  "counters.towards": "yua.commands.sip.counters.towards"
 }

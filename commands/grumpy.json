@@ -15,5 +15,5 @@
   ],
   "aliases": [],
   "responses.self": "yua.commands.grumpy.responses.self",
-  "counter": "yua.commands.grumpy.counter"
+  "counters.self": "yua.commands.grumpy.counters.self"
 }

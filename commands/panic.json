@@ -16,5 +16,6 @@
   "aliases": [],
   "responses.self": "yua.commands.panic.responses.self",
   "responses.towards": "yua.commands.panic.responses.towards",
-  "counter": "yua.commands.panic.counter"
+  "counters.self": "yua.commands.panic.counters.self",
+  "counters.towards": "yua.commands.panic.counters.towards"
 }

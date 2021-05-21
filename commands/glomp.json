@@ -19,5 +19,6 @@
   "aliases": [],
   "responses.towards": "yua.commands.glomp.responses.towards",
   "response.want": "yua.commands.glomp.responses.want",
-  "counter": "yua.commands.glomp.counter"
+  "counters.towards": "yua.commands.glomp.counters.towards",
+  "counters.want": "yua.commands.glomp.counters.toward.want"
 }

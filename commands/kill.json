@@ -21,5 +21,6 @@
   "aliases": [],
   "responses.towards": "yua.commands.kill.responses.towards",
   "response.want": "yua.commands.kill.responses.want",
-  "counter": "yua.commands.kill.counter"
+  "counters.towards": "yua.commands.kill.counters.towards",
+  "counters.want": "yua.commands.kill.counters.toward.want"
 }

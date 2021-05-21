@@ -17,5 +17,5 @@
   ],
   "aliases": [],
   "responses.self": "yua.commands.lurk.responses.self",
-  "counter": "yua.commands.lurk.counter"
+  "counters.self": "yua.commands.lurk.counters.self"
 }

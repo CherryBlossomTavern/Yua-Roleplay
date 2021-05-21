@@ -38,5 +38,6 @@
   "aliases": [],
   "responses.towards": "yua.commands.kiss.responses.towards",
   "response.want": "yua.commands.kiss.responses.want",
-  "counter": "yua.commands.kiss.counter"
+  "counters.towards": "yua.commands.kiss.counters.towards",
+  "counters.want": "yua.commands.kiss.counters.toward.want"
 }

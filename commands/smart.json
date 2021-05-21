@@ -38,5 +38,6 @@
   "aliases": [],
   "responses.self": "yua.commands.smart.responses.self",
   "responses.towards": "yua.commands.smart.responses.towards",
-  "counter": "yua.commands.smart.counter"
+  "counters.self": "yua.commands.smart.counters.self",
+  "counters.towards": "yua.commands.smart.counters.towards"
 }

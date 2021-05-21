@@ -18,5 +18,5 @@
   ],
   "aliases": [],
   "responses.self": "yua.commands.wag.responses.self",
-  "counter": "yua.commands.wag.counter"
+  "counters.self": "yua.commands.wag.counters.self"
 }

@@ -18,5 +18,6 @@
   "aliases": [],
   "responses.self": "yua.commands.lewd.responses.self",
   "responses.towards": "yua.commands.lewd.responses.towards",
-  "counter": "yua.commands.lewd.counter"
+  "counters.self": "yua.commands.lewd.counters.self",
+  "counters.towards": "yua.commands.lewd.counters.towards"
 }
